@@ -18,4 +18,4 @@
 Discord Account: Pekmen#7114 <br/>
 </h3>
 <br/>
-<img src="https://skillicons.dev/icons?i=ai,javascript,html,css,nodejs,vscode,discord&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ai,html,css,discord&theme=dark" />
