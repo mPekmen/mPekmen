@@ -14,7 +14,7 @@
 <h4>Hello</b></h4>
 <h3>
 👨‍💻 Website: https://pekmen.net <br/>
-📫 How to reach me: contact@pekmen.net <br/>
+📫 How to reach me: mailto:contact@pekmen.net <br/>
 Discord Account: Pekmen#7114 <br/>
 </h3>
 <br/>
