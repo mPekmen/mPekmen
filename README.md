@@ -7,8 +7,8 @@
 <a  href="mailto:contact@pekmen.net"> 
 <img src="https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white"/>
 </a>
-<a href="https://pekmen.net">
-<img src="https://img.shields.io/badge/Personal-D14836?&logoColor=white&color=yellow"/>
+<a href="https://awardbot.net">
+<img src="https://img.shields.io/badge/AwardBot-D14836?&logoColor=white&color=yellow"/>
 </a>
 
 <h4>Hello</b></h4>
