@@ -15,7 +15,7 @@
 <h3>
 👨‍💻 Website: https://pekmen.net <br/>
   📫 How to reach me: <a href="mailto:contact@pekmen.net" style="text-decoration:none;"> contact@pekmen.net </a> <br/>
-Discord Account: Pekmen#0001 <br/>
+Discord Account: Pekmen <br/>
 </h3>
 <br/>
 <img src="https://skillicons.dev/icons?i=ai,html,css,discord&theme=dark" />
