@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Pekmen — Mert Pekmen</title>
+<desc id="desc">Minimal cream and forest green developer profile banner.</desc>
+<rect width="1200" height="360" fill="#F5F2EB" />
+<rect x="36" y="34" width="1128" height="292" rx="0" fill="none" stroke="#CFCFC5" stroke-width="1" />
+<path d="M62 88 H785" stroke="#D9D8D0" stroke-width="1" />
+<path d="M62 280 H785" stroke="#D9D8D0" stroke-width="1" />
+<rect x="822" y="34" width="342" height="292" fill="#00513B" />
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="66" y="73" font-size="14" font-weight="700" letter-spacing="2.7" fill="#4B685D">PERSONAL PORTFOLIO</text>
+<text x="63" y="207" font-size="105" font-weight="700" letter-spacing="-7" fill="#003E2E">Pekmen<tspan fill="#25926A">.</tspan></text>
+<text x="67" y="260" font-size="28" font-weight="400" letter-spacing="-0.4" fill="#003E2E">Mert Pekmen</text>
+<text x="66" y="303" font-size="12" font-weight="700" letter-spacing="2.1" fill="#4B685D">ISTANBUL, TR  /  FULL-STACK DEVELOPER</text>
+<text x="851" y="79" font-size="12" font-weight="700" letter-spacing="2.1" fill="#BFE2D2">WORK / THINK / BUILD</text>
+<path d="M852 107 H1134" stroke="#6AA48C" stroke-width="1" opacity=".8" />
+<text x="851" y="160" font-size="29" font-weight="700" letter-spacing="-1" fill="#F5F2EB">FROM IDEA</text>
+<text x="851" y="194" font-size="29" font-weight="700" letter-spacing="-1" fill="#F5F2EB">TO PRODUCT.</text>
+<path d="M852 228 H1134" stroke="#6AA48C" stroke-width="1" opacity=".8" />
+<text x="852" y="262" font-size="13" fill="#E3F0E8">Interfaces · Systems</text>
+<text x="852" y="286" font-size="13" fill="#E3F0E8">Infrastructure</text>
+</g>
+<circle cx="1125" cy="285" r="7" fill="#93C9AC" />
+</svg>
