@@ -24,7 +24,6 @@
 | :-- | :-- | :-- |
 | **BarBer** | Salon discovery, appointment booking and live queues. | [Case study ↗](https://pekmen.net/projects/barber/) |
 | **boyacı.net** | A fast, mobile-first website for a local painting business. | [Case study ↗](https://pekmen.net/projects/boyaci/) |
-| **AwardBot** | A Discord giveaway bot and dashboard; reached **2,000+ servers at its peak**. | [Case study ↗](https://pekmen.net/projects/awardbot/) |
 | **pekmen.net** | My portfolio, including a booking system and its administration workspace. | [Behind the build ↗](https://pekmen.net/projects/pekmen-net/) |
 
 ### Where I work
